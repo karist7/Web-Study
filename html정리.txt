@@ -1,0 +1,36 @@
+advancedwebranking.com - 태그들의 사용 통계를 보여주는 사이트
+html new line tag - 새로운 라인 태그
+unsplash.com 이미지 사이트
+
+본문<body>
+<h1>~<h6> 제목을 나타내며 숫자가 작을 수록 크다.
+<strong> 굵게
+<u> 밑줄
+<br> 줄바꿈
+<p> 단락 표현
+<img> 이미지
+<img src="주소" width=숫자> 이미지를 넣는다.
+src와 width는 Attribute 즉 속성을 의미한다. 위치는 상관없다. 즉 더 많은 의미를 부여한다.
+<parent> 
+<child>
+목차 목록을 만들 떄 사용
+<li> 리스트
+unorderdList <ul> <li>의 부모
+orderd list <ol> = <ul>과 기능은 같지만 자동으로 숫자를 지정해준다.
+<table> 표 작성
+<a href="주소"(링크연결) target="_blank"(새탭으로 열기) title="툴팁"(설명)>
+
+제목<head>
+<title> 제목 책 표지같은 역할
+<meta charest="utf-8"> utf-8로 웹페이지를 연다.
+
+<!doctype html> 이 문서는 html이다.
+<html>
+고위직 태그들을 감싸는 단 하나의 최고위층 태그
+
+web의 본래의 의미: 정보라는 것이 탄탄한게 중요하다.
+html의 중요성
+★접근성
+모든 운영체제에서 동작하고 소스코드는 누구나 볼 수 있고 저작권이 없는 순수한 공공재이다.
+accessibility - 접근성
+신체적인 장애가 있는 분들도 소외가 되지 않도록 노력해야한다.
